@@ -1,0 +1,9 @@
+/*
+Theme Name:     Hovedopgaven
+Template:       sydney
+
+This is the child theme for Sydney theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("../sydney/rtl.css");
